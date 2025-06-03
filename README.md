@@ -1,4 +1,4 @@
-🦠 COVID-19 Data Visualization in 
+🦠 COVID-19 Data Visualization in R programming
 
 Overview
 This project visualizes synthetic COVID-19 data using R and `ggplot2`. It creates a bar plot showing the number of entries recorded per location.
